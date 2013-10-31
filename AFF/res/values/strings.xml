@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Annenberg Friend Finder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_log_in">Annenberg FF</string>
+    
+    <string-array name="status_array">
+		<item>N/A</item>
+		<item>In Line</item>
+		<item>Eating</item>
+	</string-array>
+	
+    <string-array name="req_array">
+		<item>Accept</item>
+		<item>Reject</item>
+	</string-array>
+	
+    <string name="set_status">Set Status</string>
+
+</resources>
